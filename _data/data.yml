@@ -141,8 +141,8 @@ projects:
         tagline: "Certification in basic Python"
 
 publications:
-    title: Publications
-    intro: |
+    title: Written Works
+    #intro: |
     papers:
       - title: "Bachelor of Sociology Thesis"
         #link: "#"
