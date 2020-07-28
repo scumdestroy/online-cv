@@ -54,27 +54,28 @@ career-profile:
        of this journey, and the breadth of things left to learn has turned me into a daily lifelong researcher.  
        Feeling fairly comfortable in basic pentesting methodologies across network and web hacking, I am currently 
        actively engaged in learning reverse engineering, exploit development and x86-64 assembly language.
-       
+
 education:
     - degree: Masters in Public Policy
       university: University of Maine
-      time: 2013-2016
+      time: 2013 - 2016
       details: |
         Worked with the state's social services department and crafted a suicide prevention 
         initiative for teens and developed online materials for its website, through interviews,
-        research and data analysis. 
+        research and data analysis.
           - Bullet point
           - Bullet point
     - degree: Bachelors in Sociology
       university: University of New England
-      time: 2006-2010
+      time: 2006 - 2010
       details: |
-           Wrote my dissertation on the role of labor unions from their personal effects through interviews
+        Wrote my dissertation on the role of labor unions from their personal effects through interviews
         done with taxi workers during a strike, up to interviews with government-appointed labor union 
         chairs in Ho Chi Minh City, Vietnam.  Presented my findings in an hour-long lecture at the 
         University of Economics, Ho Chi Minh City, Vietnam.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Senior Audio Engineer
       time: 2017 - Present
