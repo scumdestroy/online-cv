@@ -28,7 +28,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Sloval
+      - idiom: Slovak
         level: Fluent
 
       - idiom: Spanish
@@ -62,7 +62,9 @@ education:
       details: |
         Worked with the state's social services department and crafted a suicide prevention 
         initiative for teens and developed online materials for its website, through interviews,
-        research and data analysis.  
+        research and data analysis. 
+          - Bullet point
+          - Bullet point
     - degree: Bachelors in Sociology
       university: University of New England
       time: 2006-2010
@@ -71,7 +73,8 @@ education:
         done with taxi workers during a strike, up to interviews with government-appointed labor union 
         chairs in Ho Chi Minh City, Vietnam.  Presented my findings in an hour-long lecture at the 
         University of Economics, Ho Chi Minh City, Vietnam.
-        
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Senior Audio Engineer
       time: 2017 - Present
