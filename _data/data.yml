@@ -100,75 +100,87 @@ experiences:
         cloud-based patient records service and played a lead role in actualizing that plan.
         
 projects:
-    title: Projects
+    title: Certifications
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Though I lack pentesting work experience, I have extensive hours spent into researching and practicing the skills
+      necessary for the job and I spent many hours daily continuing to practice towards further certifications (such as OSCP, which
+      I am taking in August).  
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CompTIA Pentest+
+        link: "https://verify.comptia.org"
+        tagline: "An intermediate level penetration testing examination aimed at with 3-4 years experience in the field.  Test has both a knowledge-based and hands-on portion, assessing skills in planning, reconnaisance and vulnerability scanning, exploitation of network, wireless, application and RF-based vulnerabilities, use of tools, basic scripting (bash, ruby, python and powershell) and report-writing. Acquired on July 6th, 2020. ID: COMP001021689010 Code: W96QRQNEXKR114KC"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Collection of Pentesting and Exploit Scripts
+        link: "https://github.com/scumdestroy/pentester-bounty-hunter-scripts"
+        tagline: "A list of 23 scripts I've written that do a variety of pentesting and web-app security testing, written in python, ruby and php."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Hackthebox
+        link: "https://www.hackthebox.eu/profile/187780"
+        tagline: "Global rank of 864."
 
-      - title: Atom
+      - title: Pentesterlab
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Completed the following badges: Unix, Essential, White, PCAP, Serialize, Blue."
 
-      - title: Delta
+      - title: TryHackMe
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Level 12: Guru ranking, global rank: 337"
+        
+      - title: Codecademy
+        link: "#"
+        tagline: "Completed courses in: python3, git and bash"
+        
+      - title: Hackerrank
+        link: "#"
+        tagline: "Certification in basic Python"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Bachelor of Sociology Thesis"
+        #link: "#"
+        #authors: Donald E. Knuth
+        conference:  Wrote my dissertation on the role of labor unions from their personal effects through interviews
+        done with taxi workers during a strike, up to interviews with government-appointed labor union 
+        chairs in Ho Chi Minh City, Vietnam.  Presented my findings in an hour-long lecture at the 
+        University of Economics, Ho Chi Minh City, Vietnam.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Masters in Public Policy"
+        #link: "#"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: Worked with the state of Maine social services department and crafted a suicide prevention 
+        initiative for teens and developed online materials for its website, through interviews,
+        research and data analysis.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Infosec Corruption
+        link: "https://scumdestroy.gitbook.io/infosec-corruption/"
+       # authors: Edgar T. Irons
+        conference: Working on turning my notes into a clean and bountiful resource of information published on the web.  The amount of content
+        I have still to add is overwhelming.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Linux OS
+        level: 100%
+        
+      - name: Network Pentesting
+        level: 87%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Web App Pentesting
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Exploitation
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Python3
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Photoshop & After Effects
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
