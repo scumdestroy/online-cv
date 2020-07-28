@@ -3,24 +3,23 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    name: Jan Slezak
+    tagline: Penetration Tester
+    avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: jan@scumdestroy.com
+    phone: 562-454-7125
+    website: scumdestroy.gitbook.io/infosec-corruption #do not add http://
+    linkedin: jann-moon
+    github: scumdestroy
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,71 +28,67 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Sloval
+        level: Fluent
 
       - idiom: Spanish
-        level: Professional
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Illustration
         link:
 
-      - item: Snowboarding
+      - item: Musician
         link:
 
-      - item: Cooking
+      - item: CTFs
         link:
 
 career-profile:
-    title: Career Profile
+    title: Penetration Testing
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have spent the past year and a half focusing on a career shift towards infosec,
+       spending my time between absorbing as much knowledge as possible, applying that knowledge into
+       hands-on practice and working towards creating open-source tools for the community.  The difficulty of the 
+       necessary technical acumen for this field has largely been the most motivating, as well as rewarding aspects 
+       of this journey, and the breadth of things left to learn has turned me into a daily lifelong researcher.  
+       Feeling fairly comfortable in basic pentesting methodologies across network and web hacking, I am currently 
+       actively engaged in learning reverse engineering, exploit development and x86-64 assembly language.
+       
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters in Public Policy
+      university: University of Maine
+      time: 2013-2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Worked with the state's social services department and crafted a suicide prevention 
+        initiative for teens and developed online materials for its website, through interviews,
+        research and data analysis.  
+        
+    - degree: Bachelors in Sociology
+      university: University of New England
+      time: 2006-2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Wrote my dissertation on the role of labor unions from their personal effects through interviews
+        done with taxi workers during a strike, up to interviews with government-appointed labor union 
+        chairs in Ho Chi Minh City, Vietnam.  Presented my findings in an hour-long lecture at the 
+        University of Economics, Ho Chi Minh City, Vietnam.
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Audio Engineer
+      time: 2017 - Present
+      company: Recon Recording, Tarzana, CA and H2P, Los Angeles
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Working closely with clients to create professional quality mixes for albums, broadcasting and
+        other industry standards while adhering to strict deadlines.  Responsible for setting up and 
+        closing down a studio environment and the analog and digital gear associated with the job 
+        in a fast-paced environment.  Responsible for keeping up to date with audio engineering technology,
+        with particular proficiency in Presonus Studio One and Izotope's Ozone Mastering Suite.  Often did
+        production work as well on-demand, requiring a substantial understanding of client's needs, creative 
+        and stylistic standards of contemporary music and deep knowledge of audio synthesis.  Lastly, I was often
+        called on for graphic design duties, and produced promotional materials and album covers via Adobe Photoshop
+        and Adobe After Effects.
+      
+    - role: Chief Data Analyst
       time: 2014 - 2015
       company: Google, London
       details: |
