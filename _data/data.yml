@@ -114,11 +114,11 @@ projects:
     assignments:
       - title: CompTIA Pentest+
         link: "https://verify.comptia.org"
-        tagline: "An intermediate level penetration testing examination aimed at with 3-4 years experience in the field.  Test has both a knowledge-based and hands-on portion, assessing skills in planning, reconnaisance and vulnerability scanning, exploitation of network, wireless, application and RF-based vulnerabilities, use of tools, basic scripting (bash, ruby, python and powershell) and report-writing. Acquired on July 6th, 2020. ID: COMP001021689010 Code: W96QRQNEXKR114KC"
+        tagline: "An intermediate level penetration testing examination aimed at cybersecurity professionals with 3-4 years of experience in the field.  Test has both a knowledge-based and hands-on portion, assessing skills in planning, reconnaisance and vulnerability scanning, exploitation of network, wireless, application and RF-based vulnerabilities, use of tools, basic scripting (bash, ruby, python and powershell) and report-writing. Acquired on July 6th, 2020. ID: COMP001021689010 Code: W96QRQNEXKR114KC"
 
-      - title: Collection of Pentesting and Exploit Scripts
+      - title: Collection of Pentesting Scripts
         link: "https://github.com/scumdestroy/pentester-bounty-hunter-scripts"
-        tagline: "A list of 23 scripts I've written that do a variety of pentesting and web-app security testing, written in python, ruby and php."
+        tagline: "A list of 23 scripts I've written that do a variety of pentesting and web-app security testing procedures. Written primarily in python, with a few in ruby and php."
 
       - title: Hackthebox
         link: "https://www.hackthebox.eu/profile/187780"
