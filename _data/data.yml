@@ -55,7 +55,7 @@ career-profile:
        Feeling fairly comfortable in basic pentesting methodologies across network and web hacking, I am currently 
        actively engaged in learning reverse engineering, exploit development and x86-64 assembly language.
 
-education:
+education: 
     - degree: Masters in Public Policy
       university: University of Maine
       time: 2013 - 2016
@@ -76,7 +76,7 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
+experiences: 
     - role: Senior Audio Engineer
       time: 2017 - Present
       company: Recon Recording, Tarzana, CA and H2P, Los Angeles
