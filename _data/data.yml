@@ -45,7 +45,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Penetration Testing
+    title: Career Profile
     summary: |
       I have spent the past year and a half focusing on a career shift towards infosec,
        spending my time between absorbing as much knowledge as possible, applying that knowledge into
@@ -68,7 +68,7 @@ education:
       university: University of New England
       time: 2006-2010
       details: |
-        Wrote my dissertation on the role of labor unions from their personal effects through interviews
+           Wrote my dissertation on the role of labor unions from their personal effects through interviews
         done with taxi workers during a strike, up to interviews with government-appointed labor union 
         chairs in Ho Chi Minh City, Vietnam.  Presented my findings in an hour-long lecture at the 
         University of Economics, Ho Chi Minh City, Vietnam.
@@ -78,7 +78,7 @@ experiences:
       time: 2017 - Present
       company: Recon Recording, Tarzana, CA and H2P, Los Angeles
       details: |
-        Working closely with clients to create professional quality mixes for albums, broadcasting and
+            Working closely with clients to create professional quality mixes for albums, broadcasting and
         other industry standards while adhering to strict deadlines.  Responsible for setting up and 
         closing down a studio environment and the analog and digital gear associated with the job 
         in a fast-paced environment.  Responsible for keeping up to date with audio engineering technology,
@@ -89,16 +89,16 @@ experiences:
         and Adobe After Effects.
       
     - role: Chief Data Analyst
-      time: 2014 - 2015
-      company: Google, London
+      time: 2012 - 2016
+      company: Interventional Spine Medicine, Barrington, NH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            Created and analyzed a variety of data, including trends among patients,
+        referrals, procedures, insurance payments and more.  Creating visuals of my analsis and
+        presenting them to senior managers and owners.  Worked with physicians, marketing and 
+        administrative sectors to create effective strategies towards better business decisions.
+        Organized and digitized patient records, ultimately convincing management to switch to a 
+        cloud-based patient records service and played a lead role in actualizing that plan.
+        
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
