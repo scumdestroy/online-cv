@@ -75,12 +75,12 @@ education:
         University of Economics, Ho Chi Minh City, Vietnam.
           - Bullet point
           - Bullet point
-experiences: 
+experiences:
     - role: Senior Audio Engineer
-      time: 2017 - Present
-      company: Recon Recording, Tarzana, CA and H2P, Los Angeles
+      time: "2017 - Present"
+      company: "Recon Recording, Tarzana, CA and H2P, Los Angeles"
       details: |
-            Working closely with clients to create professional quality mixes for albums, broadcasting and
+        Working closely with clients to create professional quality mixes for albums, broadcasting and
         other industry standards while adhering to strict deadlines.  Responsible for setting up and 
         closing down a studio environment and the analog and digital gear associated with the job 
         in a fast-paced environment.  Responsible for keeping up to date with audio engineering technology,
@@ -93,10 +93,10 @@ experiences:
           - Bullet point
       
     - role: Chief Data Analyst
-      time: 2012 - 2016
-      company: Interventional Spine Medicine, Barrington, NH
+      time: "2012 - 2016"
+      company: "Interventional Spine Medicine, Barrington, NH"
       details: |
-            Created and analyzed a variety of data, including trends among patients,
+        Created and analyzed a variety of data, including trends among patients,
         referrals, procedures, insurance payments and more.  Creating visuals of my analsis and
         presenting them to senior managers and owners.  Worked with physicians, marketing and 
         administrative sectors to create effective strategies towards better business decisions.
