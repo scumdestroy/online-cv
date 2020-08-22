@@ -113,7 +113,7 @@ projects:
 
       - title: Hackthebox
         link: "https://www.hackthebox.eu/profile/187780"
-        tagline: "Global rank of 864."
+        tagline: "Global rank of 800/350k."
 
       - title: Pentesterlab
         link: "#"
@@ -121,7 +121,7 @@ projects:
 
       - title: TryHackMe
         link: "#"
-        tagline: "Level 12: Guru ranking, global rank: 337"
+        tagline: "Top 100 / 155k"
         
       - title: Codecademy
         link: "#"
