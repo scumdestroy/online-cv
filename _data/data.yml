@@ -11,7 +11,7 @@ sidebar:
     tagline: Penetration Tester
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
-    email: jan@scumdestroy.com
+    email: scumdestroy@gmail.com
     phone: 562-454-7125
     website: scumdestroy.gitbook.io/infosec-corruption #do not add http://
     linkedin: jann-moon
@@ -113,15 +113,15 @@ projects:
 
       - title: Hackthebox
         link: "https://www.hackthebox.eu/profile/187780"
-        tagline: "Global rank of 800/350k."
+        tagline: "Global rank of 700/350k."
 
       - title: Pentesterlab
         link: "#"
         tagline: "Completed the following badges: Unix, Essential, White, PCAP, Serialize, Blue."
 
       - title: TryHackMe
-        link: "#"
-        tagline: "Top 100 / 155k"
+        link: "https://tryhackme.com/p/scumdestroy"
+        tagline: "Top 100 / 175k"
         
       - title: Codecademy
         link: "#"
